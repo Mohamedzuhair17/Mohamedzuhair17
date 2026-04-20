@@ -1,59 +1,68 @@
-<h1 align="center">Mohamed Zuhair</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1000&color=00D1B2&center=true&vCenter=true&width=900&lines=ML+Engineer+%C2%B7+Computer+Vision+%C2%B7+AI+Systems+Architect" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=220&section=header&text=Mohamed%20Zuhair&fontSize=62&fontColor=111111&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Systems&descSize=20&descAlignY=68" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedzuhair17&style=for-the-badge&color=0e75b6" alt="Visitors" />
-  <a href="https://github.com/Mohamedzuhair17"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-zuhair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://doc-api-indol.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/BUILD%20INTELLIGENT%20SYSTEMS-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRODUCTION%20ML-F6F1EA?style=for-the-badge&labelColor=111111&color=F6F1EA" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATION-111111?style=for-the-badge" />
 </p>
 
-## Overview
-I architect and ship production-grade AI systems spanning computer vision, LLM pipelines, and full-stack delivery.  
-My work focuses on reliable inference pipelines, measurable model performance, and deployment-ready software interfaces.  
-I optimize for end-to-end impact: dataset design, model training, API integration, and operational performance.
+<table align="center">
+  <tr>
+    <td width="68%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=220&section=header&text=Building%20AI%20Products%20That%20Ship&fontSize=32&fontColor=111111&desc=Computer%20Vision%2C%20LLM%20Pipelines%2C%20MLOps%2C%20Full-Stack%20Delivery&descSize=16&descAlignY=65" />
+    </td>
+    <td width="32%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=EDE7DF&height=105&section=header&text=Always%20Learning&fontSize=22&fontColor=111111" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=E3DDD5&height=105&section=header&text=Craft%20Matters&fontSize=22&fontColor=111111" />
+    </td>
+  </tr>
+</table>
 
-## Expertise
-- **Computer Vision & Object Detection:** YOLOv8, ONNX, OpenCV, real-time inference engines
-- **ML Systems & MLOps:** training workflows, model serving, optimization, reproducible evaluation
-- **Intelligent Automation:** n8n orchestration, LLM pipelines, event-driven automation systems
-- **Full Stack AI Apps:** TypeScript, React, REST APIs, Streamlit, deployment pipelines
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-F6F1EA?style=for-the-badge&logo=python&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/YOLOv8-F6F1EA?style=for-the-badge&logo=opencv&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/OpenCV-F6F1EA?style=for-the-badge&logo=opencv&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/ONNX-F6F1EA?style=for-the-badge&logo=onnx&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/Streamlit-F6F1EA?style=for-the-badge&logo=streamlit&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/TypeScript-F6F1EA?style=for-the-badge&logo=typescript&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/React-F6F1EA?style=for-the-badge&logo=react&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/JavaScript-F6F1EA?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/n8n-F6F1EA?style=for-the-badge&logo=n8n&logoColor=111111&labelColor=F6F1EA" />
+      <img src="https://img.shields.io/badge/Docker-F6F1EA?style=for-the-badge&logo=docker&logoColor=111111&labelColor=F6F1EA" />
+    </td>
+  </tr>
+</table>
 
-## Engineering Metrics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedzuhair17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzuhair17&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzuhair17&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Mohamedzuhair17/Smart-Waste-detection-using-YOLO-V8"><img src="https://img.shields.io/badge/Smart%20Waste%20Detection-111111?style=for-the-badge" /></a>
+  <a href="https://github.com/Mohamedzuhair17/insight-nexus"><img src="https://img.shields.io/badge/Insight%20Nexus-111111?style=for-the-badge" /></a>
+  <a href="https://github.com/Mohamedzuhair17/reviso-ai"><img src="https://img.shields.io/badge/Reviso%20AI-111111?style=for-the-badge" /></a>
 </p>
 
-## Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzuhair17&theme=tokyonight&row=1&column=7&no-frame=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedzuhair17&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=111111&icon_color=111111" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzuhair17&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=111111" />
 </p>
 
-## Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedzuhair17/Mohamedzuhair17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=Mohamedzuhair17&theme=transparent&hide_border=true&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=111111" />
 </p>
 
-## Featured Production Systems
-- **[Smart-Waste-detection-using-YOLO-V8](https://github.com/Mohamedzuhair17/Smart-Waste-detection-using-YOLO-V8)**  
-  Real-time waste classification achieving **94%+ mAP** using custom-trained YOLOv8 on **10K+ image dataset**.
-- **[insight-nexus](https://github.com/Mohamedzuhair17/insight-nexus)**  
-  Scalable analytics platform with live deployment and production-oriented API integration.
-- **[reviso-ai](https://github.com/Mohamedzuhair17/reviso-ai)**  
-  LLM-powered knowledge extraction pipeline transforming academic content into structured study artifacts.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzuhair17&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
-## Research Interests
-- Efficient object detection under resource constraints
-- Multimodal AI systems for real-world automation
-- Robust evaluation frameworks for applied ML deployments
-- Human-in-the-loop intelligent workflow systems
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohamedzuhair17/Mohamedzuhair17/output/github-contribution-grid-snake.svg" />
+</p>
 
-## Open To
-- ML/AI consulting engagements
-- Research collaboration on applied vision and LLM systems
-- Senior ML Engineer and AI Systems roles
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-zuhair/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://doc-api-indol.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:yohorkharchenko4@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" /></a>
+</p>
