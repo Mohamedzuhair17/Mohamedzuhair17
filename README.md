@@ -11,12 +11,12 @@
 <table align="center">
   <tr>
     <td width="68%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=220&section=header&text=Building%20AI%20Products%20That%20Ship&fontSize=32&fontColor=111111&desc=Computer%20Vision%2C%20LLM%20Pipelines%2C%20MLOps%2C%20Full-Stack%20Delivery&descSize=16&descAlignY=65" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=220&section=header&text=Building%20AI%20Products%20That%20Ship&fontSize=32&fontColor=111111&desc=Computer%20Vision%2C%20LLM%20Pipelines%2C%20MLOps%2C%20Full-Stack%20Delivery&descSize=16&descAlignY=65" alt="intro-card" />
     </td>
     <td width="32%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=EDE7DF&height=105&section=header&text=Always%20Learning&fontSize=22&fontColor=111111" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=EDE7DF&height=105&section=header&text=Always%20Learning&fontSize=22&fontColor=111111" alt="always-learning" />
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=E3DDD5&height=105&section=header&text=Craft%20Matters&fontSize=22&fontColor=111111" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=E3DDD5&height=105&section=header&text=Craft%20Matters&fontSize=22&fontColor=111111" alt="craft-matters" />
     </td>
   </tr>
 </table>
@@ -45,24 +45,20 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedzuhair17&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=111111&icon_color=111111" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzuhair17&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=111111" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedzuhair17&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzuhair17&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamedzuhair17&theme=transparent&hide_border=true&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=111111" />
+  <img src="https://streak-stats.demolab.com?user=Mohamedzuhair17&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzuhair17&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzuhair17&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedzuhair17/Mohamedzuhair17/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-zuhair/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://doc-api-indol.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:mohamedzuhair17@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-zuhair/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://doc-api-indol.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" alt="portfolio" /></a>
+  <a href="mailto:mohamedzuhair17@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" alt="email" /></a>
 </p>
