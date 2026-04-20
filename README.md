@@ -64,5 +64,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-zuhair/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://doc-api-indol.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:yohorkharchenko4@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:mohamedzuhair17@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" /></a>
 </p>
