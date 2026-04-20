@@ -1,3 +1,23 @@
+<!-- EFFECTS-BLOCK:START -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=180&section=header&text=Mohamedzuhair17&fontSize=44&fontColor=111111&desc=GitHub%20profile%20README%20for%20Mohamed%20Zuhair&descSize=14&descAlignY=68" alt="Mohamedzuhair17" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohamedzuhair17/Mohamedzuhair17"><img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github" alt="repo" /></a>
+  <img src="https://img.shields.io/github/stars/Mohamedzuhair17/=for-the-badge&color=111111" alt="stars" />
+  <img src="https://img.shields.io/github/forks/Mohamedzuhair17/=for-the-badge&color=111111" alt="forks" />
+  <img src="https://img.shields.io/github/last-commit/Mohamedzuhair17/=for-the-badge&color=111111" alt="last commit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Project-F6F1EA?style=for-the-badge&labelColor=111111&color=F6F1EA" alt="stack" />
+  <img src="https://img.shields.io/badge/Engineering-Production%20Grade-111111?style=for-the-badge" alt="engineering" />
+</p>
+<!-- EFFECTS-BLOCK:END -->
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F6F1EA&height=220&section=header&text=Mohamed%20Zuhair&fontSize=62&fontColor=111111&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20AI%20Systems&descSize=20&descAlignY=68" alt="header" />
 </p>
