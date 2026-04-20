@@ -22,9 +22,7 @@
 </table>
 
 <p align="center"><b>EXPERTISE</b></p>
-<p align="center">
-  Computer Vision (YOLOv8, OpenCV, ONNX) · ML Systems & MLOps · LLM Pipelines · Full-Stack AI Delivery
-</p>
+<p align="center">Computer Vision (YOLOv8, OpenCV, ONNX) · ML Systems & MLOps · LLM Pipelines · Full-Stack AI Delivery</p>
 
 <table align="center">
   <tr>
