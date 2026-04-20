@@ -44,7 +44,7 @@ I optimize for end-to-end impact: dataset design, model training, API integratio
   Real-time waste classification achieving **94%+ mAP** using custom-trained YOLOv8 on **10K+ image dataset**.
 - **[insight-nexus](https://github.com/Mohamedzuhair17/insight-nexus)**  
   Scalable analytics platform with live deployment and production-oriented API integration.
-- **[REVISO-AI-SCHOOL-ASSISTANT](https://github.com/Mohamedzuhair17/REVISO-AI-SCHOOL-ASSISTANT)**  
+- **[reviso-ai](https://github.com/Mohamedzuhair17/reviso-ai)**  
   LLM-powered knowledge extraction pipeline transforming academic content into structured study artifacts.
 
 ## Research Interests
